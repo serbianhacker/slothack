@@ -16,7 +16,7 @@ NC='\033[0m'
 # Informasi installer
 SCRIPT_NAME="Website Scanner"
 VERSION="2.1"
-GITHUB_USER="YOUR_GITHUB_USERNAME"
+GITHUB_USER="serbianhacker"
 REPO_NAME="website-scanner-termux"
 SCRIPT_URL="https://raw.githubusercontent.com/${GITHUB_USER}/${REPO_NAME}/main/scanner.sh"
 
